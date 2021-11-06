@@ -1,3 +1,4 @@
+Stash Example
 
 Changes made are from Master Branch
 
