@@ -7,4 +7,6 @@ Yes, Successfully cloned from both side
 
 now working on next step
 
+Now pull request cmd needs to be executed
+
 
