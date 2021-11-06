@@ -3,3 +3,8 @@ Now Changes have been made from Clone File
 
 Hope this works
 
+Yes, Successfully cloned from both side 
+
+now working on next step
+
+
